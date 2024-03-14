@@ -1,0 +1,27 @@
+#include <cmath>
+#include <cstdio>
+#include <vector>
+#include <iostream>
+#include <algorithm>
+using namespace std;
+
+
+int main() {
+    /* Enter your code here. Read input from STDIN. Print output to STDOUT */   
+    
+    int arrNum, qNum;
+    cin >> arrNum >> qNum;
+    
+    vector arr [arrNum];
+    
+    for (int i=0; i<arrNum; i++)
+    {
+        int len;
+        cin >> len ;
+        
+        for (int j=0; j<len; j++) {
+            cin >> 
+    }
+    
+    return 0;
+}
